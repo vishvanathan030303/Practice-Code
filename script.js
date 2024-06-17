@@ -33,9 +33,3 @@ console.log("Grade:",grade)
 
 
 //Bitwise Operator
-
-
-//
-
-
-git clone git@github.com:asktechjedi/content-generator-frontend.git
